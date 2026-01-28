@@ -22,7 +22,7 @@ Hey! I'm Angelique Anne Valdez, currently a **4th-Year BS in Information Technol
 
 ###  Check this out !
 # (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
-> **[My Portfolio hehe](https://av-portfolio-chi.vercel.app/about)**
+> **[My Portfolio hehe](https://av-portfolio-chi.vercel.app)**
 
 <!-- <br/>
 
