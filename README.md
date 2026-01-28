@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> Nice to see you here! I'm Angel :D </h3>
+  <h2> Nice to see you here! I'm Angel :D </h2>
 </div>
 
 <br/>
