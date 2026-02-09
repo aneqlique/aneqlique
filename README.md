@@ -14,7 +14,6 @@ Hey! I'm Angelique Anne Valdez, currently a **4th-Year BS in Information Technol
 <br/>
 
 ### .. Here's What I’m Currently Up To (￣▽￣)ノ
--  **Student-Intern @ Concentrix** — Building real-world experience!
 -  Constantly learning **Full-Stack Web Development** and **Cybersecurity**.
 -  Improving through hands-on projects, debugging sessions, and curiosity-driven deep dives.
 
