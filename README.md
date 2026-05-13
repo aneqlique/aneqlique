@@ -6,12 +6,13 @@
   <h2> Nice to see you here! I'm Angel :D </h2>
 </div>
 
-<br/>
-
 ### A little something about me !!
 Hey! I'm Angelique Anne Valdez, currently a **4th-Year BS in Information Technology Student** specializing in **Mobile and Web Applications** at **National University Manila**. I looove bridging the gap between design, functionality, and security! ( •̀ ω •́ )✧
 
-<br/>
+###  Check this out !
+# (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
+> **[My Portfolio hehe](https://av-portfolio-chi.vercel.app)**
+
 
 ### .. Here's what I’m recently up to (￣▽￣)ノ
 -  Currently a Full Stack Software Engineer Intern at Aboitiz Foods
@@ -19,11 +20,6 @@ Hey! I'm Angelique Anne Valdez, currently a **4th-Year BS in Information Technol
 -  Constantly learning **Full-Stack Web Development** and **Cybersecurity**.
 -  Improving through hands-on projects, debugging sessions, and curiosity-driven deep dives.
 
-<br/>
-
-###  Check this out !
-# (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
-> **[My Portfolio hehe](https://av-portfolio-chi.vercel.app)**
 
 <!-- <br/>
 
