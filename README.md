@@ -7,7 +7,7 @@
 </div>
 
 ### A little something about me !!
-Hey! I'm Angelique Anne Valdez, currently a **4th-Year BS in Information Technology Student** specializing in **Mobile and Web Applications** at **National University Manila**. I looove bridging the gap between design, functionality, and security! ( •̀ ω •́ )✧
+Hey! I'm Angelique Anne Valdez, was a **BS in Information Technology Student** specializing in **Mobile and Web Applications** at **National University Manila**. I looove bridging the gap between design, functionality, and security! ( •̀ ω •́ )✧
 
 ###  Check this out !
 # (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
