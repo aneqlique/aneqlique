@@ -15,7 +15,8 @@ Hey! I'm Angelique Anne Valdez, currently a **4th-Year BS in Information Technol
 
 
 ### .. Here's what I’m recently up to (￣▽￣)ノ
--  Currently a Full Stack Software Engineer Intern at Aboitiz Foods
+-  Currently expanding my skills in Java spring boot 
+-  Former Full Stack Software Engineer Intern at Aboitiz Foods
 -  Was an IT Operations/Support Intern at Concentrix
 -  Constantly learning **Full-Stack Web Development** and **Cybersecurity**.
 -  Improving through hands-on projects, debugging sessions, and curiosity-driven deep dives.
