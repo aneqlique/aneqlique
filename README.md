@@ -7,20 +7,18 @@
 </div>
 
 ### A little something about me !!
-Hey! I'm Angelique Anne Valdez, was a **BS in Information Technology Student** specializing in **Mobile and Web Applications** at **National University Manila**. I looove bridging the gap between design, functionality, and security! ( •̀ ω •́ )✧
+Hey! I'm Angel, a **BS Information Technology graduate** from **National University Manila** with a specialization in **Mobile and Web Applications**. I am an aspiring **Full-Stack Software Engineer**, and I looove bridging the gap between design, functionality, and security! ( •̀ ω •́ )✧
 
 ###  Check this out !
 # (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 > **[My Portfolio hehe](https://av-portfolio-chi.vercel.app)**
 
-
 ### .. Here's what I’m recently up to (￣▽￣)ノ
--  Currently expanding my skills in Java spring boot 
--  Former Full Stack Software Engineer Intern at Aboitiz Foods
--  Was an IT Operations/Support Intern at Concentrix
--  Constantly learning **Full-Stack Web Development** and **Cybersecurity**.
--  Improving through hands-on projects, debugging sessions, and curiosity-driven deep dives.
-
+-  Currently expanding my **Java Spring Boot** skills through hands-on project development.
+-  Previously worked as a **Full-Stack Software Engineer Intern** at Aboitiz Foods.
+-  Formerly an **IT Operations and Support Intern** at Concentrix.
+-  Continuously exploring the fields of **Full-Stack Web Development** and **Cybersecurity**.
+-  Honing my craft through practical projects, debugging sessions, and curiosity-driven deep dives.
 
 <!-- <br/>
 
