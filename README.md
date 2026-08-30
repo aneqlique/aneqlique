@@ -17,7 +17,7 @@ Hey! I'm Angel, a **BS Information Technology graduate** from **National Univers
 -  Currently expanding my **Java Spring Boot** skills through hands-on project development.
 -  Previously worked as a **Full-Stack Software Engineer Intern** at Aboitiz Foods.
 -  Formerly an **IT Operations and Support Intern** at Concentrix.
--  Continuously exploring the fields of **Full-Stack Web Development** and **Cybersecurity** by studying for *AWS Cloud Security Certification*.
+-  Continuously exploring the fields of **Full-Stack Web Development** and **Cybersecurity** by studying for *AWS Cloud Practitioner and AWS Cloud Security Certification*.
 -  Honing my craft through practical projects, debugging sessions, and curiosity-driven deep dives.
 -  **[CHECK OUT MY LATEST PROJECT HERE ](https://sentry-ten-black.vercel.app/)**
 
